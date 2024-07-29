@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906630660180",
+    "project_id": "stress-59a0d",
+    "storage_bucket": "stress-59a0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906630660180:android:7b5bb70504993349cc2dc1",
+        "android_client_info": {
+          "package_name": "com.example.internship_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906630660180-o2d59k921jfiumuni6nhp0p4cdr8hnn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6hKZjdDaZjBan5fHvqp_gHt5MkmQHuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906630660180-o2d59k921jfiumuni6nhp0p4cdr8hnn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
